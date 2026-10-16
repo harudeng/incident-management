@@ -20,3 +20,8 @@ File or Folder | Purpose
 ## Learn More (CICD github check)
 
 Learn more at <https://cap.cloud.sap>.
+
+## users
+
+- alice
+- bob
