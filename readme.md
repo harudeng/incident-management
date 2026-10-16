@@ -17,6 +17,6 @@ File or Folder | Purpose
 - (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
 - Start with your domain model, in a CDS file in `db/`
 
-## Learn More
+## Learn More (CICD github check)
 
 Learn more at <https://cap.cloud.sap>.
